@@ -1,11 +1,27 @@
 <h1 align="center">Hi 👋, I'm Lisa Emesowum</h1>
 <h3 align="center">I'm currently exploring the world of software engineering. I won't say I'm passionate just yet — I’m still discovering what I can become in this space. But I’m giving it my best and excited to see how far I can go!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lisaemesowum&label=Profile%20views&color=0e75b6&style=flat" alt="lisaemesowum" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Beginner+Software+Engineer;Learning+Java%2C+JavaScript%2C+ReactJS%2C+MongoDB;Building+Fun+Projects;Always+Curious+%26+Improving" alt="Typing Animation" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lisaemesowum" alt="lisaemesowum" /></a> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=lisaemesowum&label=Profile%20views&color=0e75b6&style=flat" alt="lisaemesowum" /> 
+</p>
 
-<p align="left"> <a href="https://twitter.com/iamli_sa" target="blank"><img src="https://img.shields.io/twitter/follow/iamli_sa?logo=twitter&style=for-the-badge" alt="iamli_sa" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=lisaemesowum&theme=tokyonight&row=1&column=6" alt="trophies" />
+  </a> 
+</p>
+
+<p align="left"> 
+  <a href="https://twitter.com/iamli_sa" target="blank">
+    <img src="https://img.shields.io/twitter/follow/iamli_sa?logo=twitter&style=for-the-badge" alt="iamli_sa" />
+  </a> 
+</p>
+
+---
 
 - 🔭I'm still a beginner, but I’ve already built a few small projects like: - 🖥️ Cloned some popular website layouts [🔐 An ATM Card simulation project](https://github.com/lisaemesowum/AtmCard.git)
 
