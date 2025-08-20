@@ -34,7 +34,7 @@
 - ⚡ Fun fact **When I'm not coding, you can find me playing football, playing video games, or taking a good nap 😴.**
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=🌍+Connect+With+Me+On+Socials" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Connect+With+Me+On+Socials" alt="Typing Animation" />
 </h3>
 
 <p align="center">
